@@ -34,29 +34,22 @@ fashion-recommendation/
 
 ⚙️ Installation & Setup
 
-Clone the repository
-
-git clone https://github.com/your-username/fashion-recommendation.git
-cd fashion-recommendation
+1. Clone the repository
 
 
-Create a virtual environment & install dependencies
 
-python -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
-pip install -r requirements.txt
+2. Create a virtual environment & install dependencies
 
 
-Download the dataset
-Run the dataset download script:
+3. Download the dataset
+       Run the dataset download script:
 
-python download_dataset.py
+        python download_dataset.py
 
 
-Run the Streamlit app
+4. Run the Streamlit app
 
-streamlit run app.py
+      streamlit run m.py
 
 🎯 Usage
 
@@ -91,4 +84,5 @@ Deploy on cloud (AWS/GCP/Heroku).
 Extend dataset with more categories and higher-resolution images.
 
 Enhance UI with filters (price, color, brand).
+
 
