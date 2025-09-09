@@ -24,13 +24,13 @@ Libraries/Frameworks: TensorFlow, Keras, scikit-learn, Annoy, NumPy, Pandas, Str
 Tools: Git, Jupyter Notebook, Kaggle
 
 ## 📂 Project Structure
-fashion-recommendation/
-│── app.py # Streamlit app (main UI for recommendations)
-│── download_dataset.py # Script to download dataset
-│── main.py # Main training / feature extraction pipeline
-│── m.py # Model / utility functions
-│── requirements.txt # Python dependencies
-│── README.md # Project documentation
+fashion-recommendation/   <br>
+│── app.py # Streamlit app (main UI for recommendations)  <br>
+│── download_dataset.py # Script to download dataset  <br>
+│── main.py # Main training / feature extraction pipeline  <br>
+│── m.py # Model / utility functions  <br>
+│── requirements.txt # Python dependencies   <br>
+│── README.md # Project documentation   <br>
 
 
 
@@ -86,6 +86,7 @@ Deploy on cloud (AWS/GCP/Heroku).
 Extend dataset with more categories and higher-resolution images.
 
 Enhance UI with filters (price, color, brand).
+
 
 
 
