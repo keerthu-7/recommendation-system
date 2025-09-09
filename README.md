@@ -41,6 +41,12 @@ fashion-recommendation/   <br>
 
 
 2. Create a virtual environment & install dependencies
+              ```bash
+                     python -m venv venv
+                     source venv/bin/activate   # Linux/Mac
+                     venv\Scripts\activate      # Windows
+                     pip install -r requirements.txt
+
 
 
 3. Download the dataset
@@ -51,7 +57,7 @@ fashion-recommendation/   <br>
 
 4. Run the Streamlit app
 
-      streamlit run m.py
+       streamlit run m.py
 
 🎯 Usage
 
@@ -86,6 +92,7 @@ Deploy on cloud (AWS/GCP/Heroku).
 Extend dataset with more categories and higher-resolution images.
 
 Enhance UI with filters (price, color, brand).
+
 
 
 
