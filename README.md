@@ -41,7 +41,7 @@ fashion-recommendation/   <br>
 
 
 2. Create a virtual environment & install dependencies
-              ```bash
+              
                      python -m venv venv
                      source venv/bin/activate   # Linux/Mac
                      venv\Scripts\activate      # Windows
@@ -92,6 +92,7 @@ Deploy on cloud (AWS/GCP/Heroku).
 Extend dataset with more categories and higher-resolution images.
 
 Enhance UI with filters (price, color, brand).
+
 
 
 
